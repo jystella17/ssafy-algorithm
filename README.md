@@ -44,8 +44,8 @@
 - 백트래킹 (Backtracking)
 - 다익스트라 (Dijkstra)
 - 플로이드-워셜 (Floyd-Warshall)
-- 위상정렬 (Topological Sorting)
 - 최소 신장 트리(MST) - 크루스칼 (Kruskal) / 프림 (Prim) 알고리즘
+- 위상정렬 (Topological Sorting)
 <br>
 
 **<유용한 기법 or 수학적 개념>**
