@@ -2,6 +2,10 @@
 ### SSAFY 10기 대전 8반 알고리즘 스터디를 위한 Repository입니다.
 
 ### 학습할 알고리즘
+<details>
+<summary>알고리즘 분류</summary>
+<div markdown="1">
+
 **<자료구조 - 단독으로 사용되기 보다는 문제 풀이에 필요한 자료구조로 활용되는 것들>**
 <br>
 - 스택 & 큐 (Stack & Queue) (+ Python Deque)
@@ -50,3 +54,5 @@
 - 순열 & 조합 (Permutation & Combination)
 - 유클리드 호제법 (최대공약수, 최소공배수 구하기)
 - 에라토스테네스의 체 (특정 범위에서의 빠른 소수 판별)
+</div>
+</details>
