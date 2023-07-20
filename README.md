@@ -18,7 +18,7 @@
 
 **<자료구조 - 단독으로 사용되기 보다는 문제 풀이에 필요한 자료구조로 활용되는 것들>**
 <br>
-- 스택 & 큐 (Stack & Queue) (+ Python Deque)
+- 스택 & 큐 & 덱 (Stack & Queue & Deque)
 - 힙 & 우선순위 큐 (Heap & Priority Queue)
 - 해시 테이블 (Hash Table) * ex. Python Dictionary
 - 맵 & 해시맵 (Map & HashMap)
@@ -56,6 +56,7 @@
 - 플로이드-워셜 (Floyd-Warshall)
 - 최소 신장 트리(MST) - 크루스칼 (Kruskal) / 프림 (Prim) 알고리즘
 - 위상정렬 (Topological Sorting)
+- 최대 유량 알고리즘 (Max Flow Algorithm)
 <br>
 
 **<유용한 기법 or 수학적 개념>**
