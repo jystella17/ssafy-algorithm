@@ -1,4 +1,4 @@
-package BOJ2504;
+package Seonggyu;
 
 import java.io.BufferedReader;
 import java.io.IOException;
