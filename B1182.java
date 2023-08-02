@@ -23,7 +23,7 @@ public class B1182 {
         dfs(0, 0, visited);
 
         res = (S == 0) ? --res : res;
-        System.out.println(res);
+        System.out.println(res);q
     }
 
     static void dfs(int sum, int pos, boolean[] visited) {
