@@ -13,6 +13,7 @@ public class BOJ14235 {
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder()); //우선순위 큐 라이브러리
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
+
         int n = Integer.parseInt(br.readLine());
         for(int i=0;i<n;i++){
             st = new StringTokenizer(br.readLine());
