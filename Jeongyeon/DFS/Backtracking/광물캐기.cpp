@@ -18,7 +18,7 @@ void mining(int fatigue, int start, int cnt){
         return;
     }
     
-    // 다음에 사용할 곡괭이 선택 & 탐색
+    // 현재 사용할 곡괭이 선택 & 탐색
     for(int i=0; i<3; i++){
         if(pick[i] == 0) continue;
         
