@@ -1,5 +1,4 @@
 // 프로그래머스 Lv.2 광물캐기
-// Greedy 풀이도 가능
 
 #include <string>
 #include <vector>
